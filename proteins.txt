@@ -1,6 +1,6 @@
 milk
 egg
 beef
-beannn
-fishhh
-shrimppp
+bean
+fish
+shrimp
