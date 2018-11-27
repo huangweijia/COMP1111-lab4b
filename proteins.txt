@@ -1,3 +1,6 @@
-milk,
-egg,
-beef,
+milk
+egg
+beef
+beannn
+fishhh
+shrimppp
