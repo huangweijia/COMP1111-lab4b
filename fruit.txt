@@ -1,6 +1,6 @@
 apple
 oeange
 banana
-pearrr
-pineappleee
-watermelonnn
+pear
+pineapple
+watermelon
