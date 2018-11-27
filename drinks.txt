@@ -1,6 +1,6 @@
 juice
 cola
 coffee
-waterr
-milkk
-teaa
+water
+milk
+tea
