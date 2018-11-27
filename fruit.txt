@@ -1,3 +1,6 @@
 apple
 oeange
 banana
+pear
+pineapple
+watermelon
