@@ -1,3 +1,6 @@
 juice
 cola
 coffee
+water
+milk
+tea
