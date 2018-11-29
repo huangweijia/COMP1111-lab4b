@@ -1,6 +1,9 @@
 juice
-cola
+cocacola
 coffee
 water
 milk
 tea
+orange juice
+apple juice
+blacktea
