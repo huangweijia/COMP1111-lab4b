@@ -1,6 +1,9 @@
-milk
+lobster
 egg
 beef
 bean
 fish
 shrimp
+chicken
+crab
+sea urchin
