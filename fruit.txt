@@ -1,6 +1,9 @@
-apple
+pitaya
 oeange
 banana
 pear
 pineapple
 watermelon
+strawberry
+litchi
+longan
